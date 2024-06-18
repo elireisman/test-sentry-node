@@ -1,6 +1,6 @@
 {
   "name": "test-sentry-node",
-  "description": "reproduce bug",
+  "description": "reproduce bug!",
   "repository": {
     "type": "git",
     "url": "https://github.com/elireisman/test-sentry-node"
